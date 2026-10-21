@@ -1,0 +1,10 @@
+/* TEAM */
+Revenue Operations consultant: Bastien Dubray
+Location: Toronto, Canada
+LinkedIn: https://www.linkedin.com/in/bastiendubray/
+
+/* SITE */
+Last update: 2026/10/05
+Language: English
+Standards: HTML, CSS, a few lines of JavaScript. No cookies set by the site.
+Fonts: Newsreader, IBM Plex Sans

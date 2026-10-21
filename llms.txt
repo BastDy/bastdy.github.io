@@ -1,0 +1,41 @@
+# Bastien Dubray, RevOps consultant in Toronto
+
+> Bastien Dubray is an independent Revenue Operations (RevOps) consultant based in Toronto, Canada. He fixes the CRM a sales team stopped trusting, through fractional RevOps, CRM audits and CRM builds, each starting with a free 15-minute pre-audit call. He works with B2B SaaS companies, established SMBs and larger sales teams using HubSpot, Salesforce or Pipedrive, remotely across Canada and the US, in English or French.
+
+## Services
+
+- Audit your CRM and pipeline (fixed price, a separate offer): a written diagnosis (data quality, stages, required fields, automations, reports), a prioritized action plan with the time each fix takes, interviews with 2 to 4 people who use the CRM daily, a live readout and a recorded walkthrough. An express version is available. Best when the numbers feel off and nobody can say why.
+- Build and automate your CRM (fixed price): a configured CRM (pipeline stages, properties, permissions), documented automations in Make, n8n or native CRM workflows, the dashboards leadership uses in its weekly meeting, team training and a written user guide. Best when setting up a CRM from scratch, or when the fixes are already known.
+- Run your RevOps, part-time (fractional RevOps, the main offer): one day a week on the CRM and reporting backlog, priorities agreed every week, a weekly check-in, a monthly written report and a handover document for the next RevOps hire. Three months minimum.
+
+Automations built and handed over: inbound lead routing, closed-won deal to invoice, AI-drafted CRM updates from call transcripts, a Monday pipeline completeness check.
+
+## Process
+
+1. A free 15-minute pre-audit call: you describe the CRM, the team and what keeps going wrong.
+2. A written list of needs, which you can correct.
+3. A fixed quote: scope, deliverables, what is not included and one price. The price changes only if the scope does.
+4. The work with weekly check-ins, then handover with documentation and training so the team runs the system without him.
+
+Prices are not published.
+
+## Results
+
+Measured on client CRMs over two years at Turnk (Bordeaux, France), where Bastien ran HubSpot, Salesforce and Pipedrive for 8 B2B client teams. Clients include Kapsera, Voisin Consulting and Soil Capital.
+- Lead response time cut from 4 days to 1 day.
+- Conversion rate up 30% after lead scoring and routing.
+- Quote production cut from 1 hour to 2 seconds with automation.
+- Duplicate CRM records reduced by 30%.
+- CRM adoption of 80%+ kept across 8 client teams, 100+ users trained.
+- 100+ automations shipped in Make, n8n and HubSpot workflows.
+
+## Background
+
+8 HubSpot certifications, Make Certified Advanced. Before RevOps: Mars (Power BI reporting for 3 sales forces, 300 stores), Leroy Merlin (logistics manager, WMS rollout for a 30-person team, all certified in 6 weeks), Bastidarra (procurement, supply costs cut by 10%) and Geev (product management). Based in Toronto since 2026. Native French speaker.
+
+## Contact
+
+- Book a call (free 15-minute pre-audit): https://calendar.app.google/n5UqcsiMRdB4RHt9A
+- Email: bastien.dubray@gmail.com
+- LinkedIn: https://www.linkedin.com/in/bastiendubray/
+- Website: https://bastdy.github.io/
